@@ -1,2 +1,2 @@
 # algorithms
-basis algorithms
+basic algorithms
